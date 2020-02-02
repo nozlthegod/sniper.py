@@ -21,3 +21,4 @@ Iliyan
 - `+snipequeue` - Displays current snipe queue.
 - `+invite` - Displays bot invite.
 - `+snipeadd [username]` - Queues a snipe.
+[![Run on Repl.it](https://repl.it/badge/github/TheBeeMC/sniper.py)](https://repl.it/github/TheBeeMC/sniper.py)
